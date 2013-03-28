@@ -1,0 +1,26 @@
+Man the Walls!
+
+Game: Half-Life 2
+
+Development time: 4 weeks
+
+Download Level
+
+
+
+Description: "Man the Walls!" puts players in the role of Gordon Freeman. The player must defend three Combine computers from dozens of enemies with limited weapons, and four cowardly Resistance fighters. The Resistance fighters will run away and cower whenever they get shot, so the player must motivate these cowardly fighters by whacking them upside the head with his crowbar, in order to get them to fight again.
+
+ "Man the Walls!" was an experiment in what could be done with Half-Life 2's AI scripting system with limited time and training.The level took inspiration from old arcade games like Galaga and Space Invaders.  To win the level, the player must ensure that at least one Combine computer survives.
+
+Tasks:
+
+    Initial Design and Documentation
+    BSP Creation, Texturing, Lighitng, Decorative Mesh Placement
+    AI / Relationship scripting to create prioritized behaviors for the enemies using Hammer's I/O system
+    Event Scripting and Enemy Spawning
+
+
+
+Gameplay Video (No Commentary)
+
+Download Documentation ( PDF , .doc )

@@ -1,0 +1,20 @@
+Wulfsheim Village
+
+Game: Oblivion
+
+Development time:  Approximately 4 weeks
+
+Description: "Wulfsheim Village" is a stand alone add-on to the Oblivion game world. I chose to create a level that catered to stealthy marksmen and assassins. As such i set up my combat areas with plenty of bottlenecks and long lines of sight, with plenty of places to hide in the shadows.
+
+The level places a strong focus on environmental detailing, quest design and narrative technique. Wolfsheim Village takes heavy inspiration from the "Nord" aesthetic that can be found in Bruma. I took this architectural aesthetic and applied to as many facets of the level as possible, including the atmosphere and the characters themselves.
+
+Story Synopsis: The player arrives through a magical portal at a village that lies on the border of Imperial and Nord territory. People have been disappearing throughout the village. Homes are broken into, and then burned to the ground, with no traces of their former inhabitants. Mildri Davynsdotter, the captain of the guard, has charged the player with uncovering conclusive proof as to the fates of the missing villagers.
+
+Tasks:
+
+    Initial Design and Documentation
+    Area Layout using modular game assets
+    Lighting and Decorative Mesh Placement
+    NPC and Item Creation
+    Placing enemy encounters, and balancing them for a stealth character
+    Quest and Dialog Tree Scripting

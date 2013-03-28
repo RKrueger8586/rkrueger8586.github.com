@@ -1,0 +1,24 @@
+Front Page
+Amateur Death Race - Team 86%
+
+Development Time: 8 weeks
+
+Positions Held: Lead Level Designer then Associate Producer
+
+
+
+Description: Amateur Death Race is a Mario-Kart style racer set in a silly, slightly futuristic world. Players control a magnetic vehicle and race against other players in order to cross the finish line first. Players must avoid metallic junk scattered along the track, or their increased weight will slow them down. However, being heavier has it's advantages. Heavier players are harder to push around.
+
+My responsibilities included implementing the first third of the track, which included pick-ups, props, junk, level entities. I was also responsible for maintaining the LDD, giving presentations, and scripting items in the game world, such as exploding barrels.
+
+Download Documentation ( PDF, .doc )
+
+Captions
+
+Exploding barrels will bounce the player around and throw them off track.
+
+Players can collect an array of useful pick-ups, such as nitrous oxide, a junk launcher and invulnerability.
+
+Players bounce around the track in a frenetic, high-speed race.
+
+Crazy stunts and jumps are commonplace.

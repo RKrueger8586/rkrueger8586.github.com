@@ -1,0 +1,11 @@
+# The name of the author of the portfolio.
+author: Russell Krueger
+
+# The URL where the portfolio is hosted.
+url: http://www.russellkrueger.com
+
+# The title of the site.
+title: Russell Krueger, Designer
+
+# Permalink settings
+permalink: /:categories/:title

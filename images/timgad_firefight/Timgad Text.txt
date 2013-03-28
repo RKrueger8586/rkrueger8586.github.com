@@ -1,0 +1,40 @@
+Front PAge
+Timgad Firefight
+
+Game: Gears of War
+
+Development Time: Approximately 4 weeks
+
+Download Level
+
+
+
+Description: "Timgad Firefight"'s creation was a two-step process that revolves around creating tactics-heavy gameplay first, then adding static meshes, environmental storytelling and decorative elements that enhances the gameplay, but fits with the Gears of War universe.
+
+The level features multiple paths, each with different advantages and lines of sight. Delta Squad was included to allow for the player to utilize flanking maneuvers while their squad mates lay down heavy fire.
+
+Tasks:
+
+    Design and block out a single combat scenario with BSP
+    Script enemy encounters with Kismet
+    Add static meshes, lighting and texturing to create visual interest
+    Add sounds and music for atmosphere
+
+Gameplay Video (No Commentary)
+
+Captions
+In "Timgad Firefight", players must fight their way out of a Locust ambush in a narrow city street.
+
+Lighting cues and environmental storytelling give the player a hint that there is something across the street worth checking out.
+
+This area uses lots of squat and boxy buildings created from the "Timgad" architectural style. Most of the architecture sports darker color tones, and uses metallic or darker stone assets, as opposed to marble or brick.  The low power lines and overhead bridge help give the level a closed in feeling.
+
+Placing a light source (such as a flaming Barrel) outside of the player's view of the alleyway from the street gives the area a feeling of depth and encourages players to explore the area.
+
+Dense, low cover allows both the player's squad and the Locust to advance in relative safety, but eventually both fronts come crashing together at full force. The shops and alleyway provide flanking opportunities and better cover, but sacrifice line of sight in the process, which creates brutal, close combat encounters.
+
+The second story balcony offers players supplies and a height advantage, but first they must kill the locust sniper lying in wait.
+
+The bridge to the second floor of the shops provides excellent line of sight, but absolutely no cover. The second floor shops provide excellent cover but little in the way of line of sight.
+
+Towering buildings on either side of the level create a sense of space, but also enclose the player. If is easy to believe that this area is part of a much larger area.

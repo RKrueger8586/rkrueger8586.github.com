@@ -1,0 +1,13 @@
+ROM's Hard Drive to Silicon Valley: Team Tank Treads
+
+Development Time: 8 Weeks
+
+Position Held: Associate Producer/Level Designer
+
+
+
+Description: ROM's Hard Drive to Silicon Valley is a wacky 2D platformer built in Torque X. Players use multiple forms and powers in order to navigate the environment. The game consists of three levels each with a boss battle at the end.
+
+My responsibilities included creating and maintaining the Asset and Development Plan and the Game Design Document, Preparing a Statement of Work, managing and directing the team, and running SCRUM. I was also responsible for laying out the initial collision of levels one and three and participating in the balancing and design of the game.
+
+Download Game Design Document ( PDF , .doc )

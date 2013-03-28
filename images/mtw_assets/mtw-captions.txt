@@ -1,0 +1,23 @@
+mtw1:
+The project had a strong focus on AI relationship and Assault scripting. The player must defend an abandoned Combine outpost through several waves of enemies.
+
+mtw2:
+The enemy AI follows a pre-determined path with prioritized targets. This allows them to systematically break down the outpost's defenses and finally move to their final goal of destroying the computers within.
+
+mtw3:
+I studied many of the City-17 levels in order to get a feeling for the construction of buildings in Half-Life 2.
+
+mtw4:
+The outpost is sectioned off by high buildings and fences. This area is the only area that the player has access to.
+
+mtw5:
+The player has access to a shotgun and grenades. The shotgun is ineffective at long range, and the grenade requires finesse and timing to use properly. However, at close range both these weapons are extremely effective.
+
+mtw6:
+The shotgun keeps the player fighting at close range, but the enemies have access to SMGs and the Combine AR-2, which is much more effective at long range.
+
+mtw7:
+The player and his allies must defend three computers. If the Combine destroy them, the player fails the level.
+
+mtw8:
+If the player manages to survive three waves of enemies, Alyx comes to the rescue, and assists the player in surviving the last wave of enemies.

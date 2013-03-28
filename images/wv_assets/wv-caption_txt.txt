@@ -1,0 +1,43 @@
+wv1:
+Once the player enters the magical portal, they find themselves in the basement of an unoccupied house.
+ After exiting the house, the player is greeted by the bitter cold and gloom of Wulfsheim Village.
+
+wv2:
+The road out of the village has been blocked by an avalanche. Until the spring comes, the residents of
+Wulfsheim Village have no way out.
+
+wv3:
+The entrance to the fortified village is visible immediately. Braziers draw the player's
+ eye to the walls of the village, giving them a clue as to where to go.
+
+wv4:
+Inside the walls of the village, it is immediately apparent that some disaster has befallen
+the town. Several buildings lie the ruins. The streets are almost deserted.
+The captain of the guard approaches the player and begs their assistance
+
+wv5:
+The Inn is the only place that still seems to have some life.
+While many of the chairs are empty, there are still a few lucky
+townsfolk who have managed to survive so far. Bjorn, the innkeeper has a job for you.
+A bottle of rare ale has gone missing, and he'd like you to find it.
+
+wv6:
+Bjorn has given you a room to help keep you out of the cold, and to store anything you should find.
+ The room is free of charge, because it's not like anyone else is going to be renting it in the near future...
+
+wv7:
+Wulfsheim's smithy has several powerful weapons to aid archers and assassins but they do not come cheaply.
+
+wv8:
+Clues from the few remaining villagers point you in the direction of the temple of Stendarr.
+The temple itself is locked, but many of the people that disappeared have been seen in the vicinity of the temple
+before they were taken.
+
+wv9:
+Players stumble upon a hatch to the basement of Tarn Yngvarson, one of the missing villagers. Upon entering the basement,
+ the presence of blood on the floors and walls is enough to make even the most oblivious adventurer wary.
+ Something very bad has happened here...
+
+wv10:
+Should players follow the trail of blood, they stumble upon a hastily renovated tunnel that leads into the catacombs
+beneath the temple of Stendarr.

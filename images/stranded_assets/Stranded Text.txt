@@ -1,0 +1,47 @@
+Captions
+Players find themselves alone in front of the House of Commons
+
+The House of Commons is laid out like a fortress, despite its majestic architecture. The stairs act as a bottleneck, and cover is laid out to cover the entrances. The balcony mounted Troika machine gun offers an excellent line of fire over most of the battlefield.
+
+A Troika Cabal rains fire down on the player from the balcony of the House of Commons
+
+The House of Commons remains largely intact, but shows signs of repeated conflict, as evidenced by the rubble strewn across the groung, ruined sections of wall and defensively placed sandbag walls.
+
+Players fight the Troika Cabal at close range. Shotguns are optimal here.
+
+The interior of the House of Commons has fared considerably worse than the exterior. Access to the rest of the building has been cut off by collapsed walls and ceilings.
+
+Wretches ambush the player inside the House. White lighting porvides a clue for where to go.
+
+The distress beacon starts a timer. Players have seven minutes to complete the level's objectives.
+
+Ruined buildings rise in the distance, giving players a view into the outside world.
+
+Once rescue arrives, all the player must do is reach the helicopter alive.
+
+Front PAge
+
+Stranded
+
+Game: Gears of War
+
+Development Time: 6 Weeks
+
+Download Level
+
+
+
+ Description: "Stranded"  was my first serious attempt at a Gears of War Level. The player must fight a desperate battle for survival against insurmountable odds, while completing several objectives that enable their escape at the end of the mission.
+
+The mission focused on creating a highly detailed environment with numerous events and a smooth, yet challenging progression through the level.
+
+Tasks:
+
+    Initial Layout and Documentation
+    BSP Blockout, lighting, texturing, and decorative mesh placement
+    Kismet scripting for combat encounters and interrelated game events
+    Matinee of a landing helicopter that deploys friendly AI soldiers.
+
+Gameplay Video (Full Length, No Commentary)
+
+Download Documentation ( PDF, .doc)
