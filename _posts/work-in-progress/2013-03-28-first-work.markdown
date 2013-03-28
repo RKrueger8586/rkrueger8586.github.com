@@ -1,7 +1,7 @@
 ---
 layout: carousel
 title: First Work
-category: projects
+category: work-in-progress
 tags: individual
 # Remove this line when the project should be visible
 published: false
