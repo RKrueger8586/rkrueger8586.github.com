@@ -1,6 +1,6 @@
 ---
 layout: carousel
-title: Wulfsheim Village
+title: First Work
 category: projects
 tags: individual
 # Remove this line when the project should be visible
