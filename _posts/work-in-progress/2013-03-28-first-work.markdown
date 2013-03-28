@@ -2,7 +2,7 @@
 layout: carousel
 title: First Work
 category: work-in-progress
-tags: individual
+tags: wip
 # Remove this line when the project should be visible
 published: false
 blurb: "Creating a believeable world in the land of Morroblow."
