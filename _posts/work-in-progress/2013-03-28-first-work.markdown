@@ -3,6 +3,8 @@ layout: carousel
 title: Wulfsheim Village
 category: projects
 tags: individual
+# Remove this line when the project should be visible
+published: false
 blurb: "Creating a believeable world in the land of Morroblow."
 images:
 - src: /thumbnails/wv1.jpg
