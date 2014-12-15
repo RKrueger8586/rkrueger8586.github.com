@@ -3,6 +3,7 @@ layout: carousel
 title: Amateur Death Race
 category: projects
 tags: team
+blurb: "Fast and frenetic racing."
 images:
 - src: /thumbnails/adr1.jpg
   label: Explosions!

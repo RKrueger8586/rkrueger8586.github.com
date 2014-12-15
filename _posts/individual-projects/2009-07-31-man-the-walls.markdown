@@ -3,10 +3,11 @@ layout: carousel
 title: Man The Walls!
 category: projects
 tags: individual
+blurb: "A dynamic area defense scenario."
 images:
 - src: /thumbnails/mtw1.jpg
   label: AI Scripting
-  caption: "The project had a strong focus on AI relationship and Assault scripting. The player must defend an abandoned Combine outpost through several waves of enemies. <a href='http://www.youtube.com/watch?v=Uat2zkzBkx8' target='_blank'>Watch the video.</a>"
+  caption: "This project had a strong focus on AI relationship and Assault scripting. The player must defend an abandoned Combine outpost through several waves of enemies. <a href='http://www.youtube.com/watch?v=Uat2zkzBkx8' target='_blank'>Watch the video.</a>"
 - src: /thumbnails/mtw2.jpg
   label: Ai Behavior
   caption: "The enemy AI follows a pre-determined path with prioritized targets. This allows them to systematically break down the outpost's defenses and finally move to their final goal of destroying the computers within."
@@ -21,7 +22,7 @@ images:
   caption: "The player has access to a shotgun and grenades. The shotgun is ineffective at long range, and the grenade requires finesse and timing to use properly. However, at close range both these weapons are extremely effective."
 - src: /thumbnails/mtw6.jpg
   label: Asymmetrical Encounters
-  caption: "The shotgun keeps the player fighting at close range, but the enemies have access to SMGs and the Combine AR-2, which is much more effective at long range."
+  caption: "The shotgun keeps the player fighting at close range, but the enemies have access to SMGs and the Combine AR-2, both of which are much more effective at long range."
 - src: /thumbnails/mtw7.jpg
   label: Player Objectives
   caption: "The player and his allies must defend three computers. If the Combine destroy them, the player fails the level."
@@ -33,9 +34,9 @@ images:
 - Half-Life 2
 
 ## Description
-"Man the Walls!" puts players in the role of Gordon Freeman. The player must defend three Combine computers from dozens of enemies with limited weapons, and four cowardly Resistance fighters. The Resistance fighters will run away and cower whenever they get shot, so the player must motivate these cowardly fighters by whacking them upside the head with his crowbar, in order to get them to fight again.
+"Man the Walls!" puts players in the role of Gordon Freeman. The player must defend three Combine computers from dozens of enemies with limited weapons, and four cowardly Resistance fighters. The Resistance fighters will run away and cower whenever they get shot, so the player must motivate these cowardly fighters by whacking them upside the head with his crowbar in order to get them to fight again.
 
-"Man the Walls!" was an experiment in what could be done with Half-Life 2's AI scripting system with limited time and training.The level took inspiration from old arcade games like Galaga and Space Invaders.  To win the level, the player must ensure that at least one Combine computer survives.
+"Man the Walls!" was an experiment in what could be done with Half-Life 2's AI scripting system with limited time and training. The level took inspiration from old arcade games like Galaga and Space Invaders. To win the level, the player must ensure that at least one Combine computer survives.
 
 ## Development Time
 - 4 weeks

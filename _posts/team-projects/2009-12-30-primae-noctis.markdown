@@ -3,17 +3,18 @@ layout: carousel
 title: Primae Noctis
 category: projects
 tags: team
+blurb: "A tale of murder and revenge set in medieval Scotland."
 images:
 - src: /thumbnails/pn1.jpg
   caption: "Cora Keith sneaks around an English castle on her quest for revenge against Lord Anacletus."
 - src: /thumbnails/pn2.jpg
   caption: "Cora must navigate a nightmare world in order to enlist the aid of two faerie spirits, each with their own unique abilities."
 - src: /thumbnails/pn3.jpg
-  caption: "The Washer of the Ford allows Cora to become invisible in thew shadows and blow out torches."
+  caption: "The Washer of the Ford allows Cora to become invisible in the shadows and blow out torches."
 - src: /thumbnails/pn4.jpg
-  caption: "he Washer also has a wail attack that can knock guards into deadly hazards."
+  caption: "The Washer also has a wail attack that can knock guards into deadly hazards."
 - src: /thumbnails/pn5.jpg
-  caption: "The Green Maiden is a whirlwind of destructionagainst large numbers of enemies, but is extremely weak against smaller groups."
+  caption: "The Green Maiden is a whirlwind of destruction against large numbers of enemies, but is extremely weak against smaller groups."
 - src: /thumbnails/pn6.jpg
   caption: "Once the player has enlisted the aid of the ancient scottish spirits, they are free to take their revenge against the English lord."
 ---

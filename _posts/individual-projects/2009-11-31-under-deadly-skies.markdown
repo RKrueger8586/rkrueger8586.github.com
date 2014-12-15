@@ -3,16 +3,17 @@ layout: carousel
 title: Under Deadly Skies
 category: projects
 tags: individual
+blurb: "Turning the tides of battle with environmental weapons."
 images:
 - src: /thumbnails/uds1.jpg
   label: Factory Floor
-  caption: "Perspective view of the factory floor. Players begin on the right hand side of the room and must navigate the rows of cover and try to stay in the light, by moving quickly and destroying propane tanks. <a href='http://www.youtube.com/watch?v=2puogK0WXxc' target='_blank'>Watch the video.</a>"
+  caption: "Perspective view of the factory floor. Players begin on the right hand side of the room and must navigate the rows of cover while trying to stay in the light, by moving quickly and destroying propane tanks. <a href='http://www.youtube.com/watch?v=2puogK0WXxc' target='_blank'>Watch the video.</a>"
 - src: /thumbnails/uds2.jpg
   label: Environmental Weapons
   caption: "Under Deadly Skies revolves around the mechanic of darkness being a weapon the player can use. Many areas of the level start out well-lit. The player can shoot out the lights in order to cover the area in darkness."
 - src: /thumbnails/uds3.jpg
   label: Architecture
-  caption: "Street view outside the factory.  The factory itself takes cues from a temple, while spidery networks of pipes and girders connect all the buildings together."
+  caption: "Street view outside the factory. The factory itself takes cues from a temple, while spidery networks of pipes and girders connect all the buildings together."
 - src: /thumbnails/uds4.jpg
   label: Branching Paths
   caption: "Players may either follow the street, or duck into a side alleyway, which is illuminated by burning barrels."

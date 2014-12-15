@@ -3,6 +3,7 @@ layout: carousel
 title: Timgad Firefight
 category: projects
 tags: individual
+blurb: "A brutal, tactical combat puzzle."
 images:
 - src: /thumbnails/tf1.jpg
   label: Setup

@@ -3,13 +3,14 @@ layout: carousel
 title: Stranded
 category: projects
 tags: individual
+blurb: "A desperate fight for survival against overwheling odds."
 images:
 - src: /thumbnails/stranded1.jpg
   label: Setup
   caption: "Players find themselves alone in front of the House of Commons. <a href='http://www.youtube.com/watch?v=h3oKD9mPa4o' target='_blank'>Watch the video.</a>"
 - src: /thumbnails/stranded2.jpg
   label: Architecture
-  caption: "The House of Commons is laid out like a fortress, despite its majestic architecture. The stairs act as a bottleneck, and cover is laid out to cover the entrances. The balcony mounted Troika machine gun offers an excellent line of fire over most of the battlefield."
+  caption: "Despite its majestic architecture, the House of Commons is laid out like a fortress. The stairs act as a bottleneck, and cover is laid out to cover the entrances. The balcony-mounted Troika machine gun offers an excellent line of fire over most of the battlefield."
 - src: /thumbnails/stranded3.jpg
   label: First Challenge 
   caption: "A Troika Cabal rains fire down on the player from the balcony of the House of Commons"
@@ -24,16 +25,16 @@ images:
   caption: "The interior of the House of Commons has fared considerably worse than the exterior. Access to the rest of the building has been cut off by collapsed walls and ceilings."
 - src: /thumbnails/stranded7.jpg
   label: Encounter Design
-  caption: "Wretches ambush the player inside the House. White lighting porvides a clue for where to go."
+  caption: "Wretches ambush the player inside the House. White lighting provides a clue for where to go."
 - src: /thumbnails/stranded8.jpg
   label: Staged Objectives
-  caption: "The distress beacon starts a timer. Players have seven minutes to complete the level's objectives."
+  caption: "Activating the distress beacon starts a timer. Players have seven minutes to complete the level's objectives."
 - src: /thumbnails/stranded9.jpg
   label: World Building
   caption: "Ruined buildings rise in the distance, giving players a view into the outside world."
 - src: /thumbnails/stranded10.jpg
   label: Final Challenge
-  caption: "Once rescue arrives, all the player must do is reach the helicopter alive."
+  caption: "Once rescue arrives, the player must reach the helicopter alive."
 ---
 
 ## Game

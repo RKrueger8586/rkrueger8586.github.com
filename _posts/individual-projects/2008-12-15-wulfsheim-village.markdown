@@ -3,7 +3,7 @@ layout: carousel
 title: Wulfsheim Village
 category: projects
 tags: individual
-blurb: "Creating a believeable world in the land of Morroblow."
+blurb: "Creating a believeable world in the land of Tamriel."
 images:
 - src: /thumbnails/wv1.jpg
   label: Setup
@@ -19,13 +19,13 @@ images:
   caption: "Inside the walls of the village, it is immediately apparent that some disaster has befallen the town. Several buildings lie the ruins. The streets are almost deserted. The captain of the guard approaches the player and begs their assistance."
 - src: /thumbnails/wv5.jpg
   label: interior Architecture
-  caption: "The Inn is the only place that still seems to have some life. While many of the chairs are empty, there are still a few lucky townsfolk who have managed to survive so far. Bjorn, the innkeeper has a job for you. A bottle of rare ale has gone missing, and he'd like you to find it."
+  caption: "The Inn is the only place that still seems to have some life. While many of the chairs are empty, there are still a few lucky townsfolk who have managed to survive so far. Bjorn, the innkeeper, has a job for you. A bottle of rare ale has gone missing, and he'd like you to find it."
 - src: /thumbnails/wv6.jpg
   label: A Room For Rent
   caption: "Bjorn has given you a room to help keep you out of the cold, and to store anything you should find. The room is free of charge, because it's not like anyone else is going to be renting it in the near future..."
 - src: /thumbnails/wv7.jpg
   label: Preparing for Adventure
-  caption: "Wulfsheim's smithy has several powerful weapons to aid archers and assassins but they do not come cheaply."
+  caption: "Wulfsheim's smithy has several powerful weapons to aid archers and assassins, but they do not come cheaply."
 - src: /thumbnails/wv8.jpg
   label: Mystery and Investigation
   caption: "Clues from the few remaining villagers point you in the direction of the temple of Stendarr. The temple itself is locked, but many of the people that disappeared have been seen in the vicinity of the temple before they were taken."
@@ -41,9 +41,9 @@ images:
 - Oblivion
 
 ## Description
-"Wulfsheim Village" is a stand alone add-on to the Oblivion game world. I chose to create a level that catered to stealthy marksmen and assassins. As such i set up my combat areas with plenty of bottlenecks and long lines of sight, with plenty of places to hide in the shadows.
+"Wulfsheim Village" is a stand alone add-on to the Oblivion game world. I chose to create a level that catered to stealthy marksmen and assassins. As such, I set up my combat areas with plenty of bottlenecks and long lines of sight, with plenty of places to hide in the shadows.
 
-The level places a strong focus on environmental detailing, quest design and narrative technique. Wolfsheim Village takes heavy inspiration from the "Nord" aesthetic that can be found in Bruma. I took this architectural aesthetic and applied to as many facets of the level as possible, including the atmosphere and the characters themselves.
+The level places a strong focus on environmental detailing, quest design and narrative technique. Wolfsheim Village takes heavy inspiration from the "Nord" aesthetic that can be found in Bruma. I took this architectural aesthetic and applied it to as many facets of the level as possible, including the atmosphere and the characters themselves.
 
 Story Synopsis: The player arrives through a magical portal at a village that lies on the border of Imperial and Nord territory. People have been disappearing throughout the village. Homes are broken into, and then burned to the ground, with no traces of their former inhabitants. Mildri Davynsdotter, the captain of the guard, has charged the player with uncovering conclusive proof as to the fates of the missing villagers.
 
