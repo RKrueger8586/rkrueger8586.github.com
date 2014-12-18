@@ -3,6 +3,21 @@ layout: default
 title: Projects
 ---
 <h1>Projects</h1>
+<h2>Professional</h2>
+<p>These projects detail the experiences I've had since I started working in May of 2010.</p>	
+		<ul class="thumbnails">
+			{% for post in site.tags.professional %}
+			<li class="span4">
+				<a href="{{ site.url }}{{ site.baseurl}}{{ post.url }}" class="thumbnail">
+					<img src="{{ post.images[0].src }}">
+					<h4>{{ post.title }}</h4>
+					<p>{{ post.blurb }}</p>
+				</a>
+			</li>
+			{% endfor %}
+		</ul>
+	
+
 <h2>Individual</h2>
 <p>These projects were completed, from start to finish, by me and me alone. They were driven both by requirement and by passion.</p>	
 		<ul class="thumbnails">
@@ -18,6 +33,7 @@ title: Projects
 		</ul>
 	
 <h2>Team</h2>
+<p>These projects are games that I have undertaken with peers and colleagues.</p>
 		<ul class="thumbnails">
 			{% for post in site.tags.team %}
 			<li class="span4">

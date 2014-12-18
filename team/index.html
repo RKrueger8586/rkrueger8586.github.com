@@ -2,15 +2,30 @@
 layout: default
 title: Projects
 ---
+<h1>Professional Work</h1>
+<p>These projects detail the experiences I've had since I started working in May of 2010.</p>	
+		<ul class="thumbnails">
+			{% for post in site.tags.professional %}
+			<li class="span4">
+				<a href="{{ site.url }}{{ site.baseurl}}{{ post.url }}" class="thumbnail">
+					<img src="{{ post.images[0].src }}">
+					<h4>{{ post.title }}</h4>
+					<p>{{ post.blurb }}</p>
+				</a>
+			</li>
+			{% endfor %}
+		</ul>
+	
 <h1>Team Projects</h1>
-<ul class="thumbnails">
-	{% for post in site.tags.team %}
-	<li class="span4">
-		<a href="{{ site.url }}{{ site.baseurl}}{{ post.url }}" class="thumbnail">
-			<img src="{{ post.images[0].src }}">
-			<h4>{{ post.title }}</h4>
-			<p>{{ post.blurb }}</p>
-		</a>
-	</li>
-	{% endfor %}
-</ul>
+<p>These projects are games that I have undertaken with peers and colleagues.</p>
+		<ul class="thumbnails">
+			{% for post in site.tags.team %}
+			<li class="span4">
+				<a href="{{ site.url }}{{ site.baseurl}}{{ post.url }}" class="thumbnail">
+					<img src="{{ post.images[0].src }}">
+					<h4>{{ post.title }}</h4>
+					<p>{{ post.blurb }}</p>
+				</a>
+			</li>
+			{% endfor %}
+		</ul>
