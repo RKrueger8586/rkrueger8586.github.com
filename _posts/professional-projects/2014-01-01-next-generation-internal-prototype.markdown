@@ -29,8 +29,9 @@ Due to the sensitive nature of the work I do for this project, I am unable to di
 - Approximately 9 months, with intermittent development thereafter. 
 
 ## Tasks
-- Responsible for Interfacing with government customers, gathering requirements, and creating production time lines
-- Designed and documented eight levels across four separate products
-- Construction: Terrain, Textures, Lighting, Decorative Mesh Placement, Entity Placement, Art Integration
-- Scenario Design and Scripting
-- Managed small teams (outsourced and in-house)
+- Responsible for interfacing with government customers, gathering requirements, and creating production timelines.
+- Created tasking and oversaw the day-to-day development of the prototype.
+- Worked with art and programming teams to develop a method of carrying over content from Unreal 3 to Unreal 4.
+- Scripted a dynamic day/night cycle and a framework for weather effects.
+- Reconstructed a large scale map from our Unreal 3 product, and give it a visual upgrade.
+- Managed several internal developers across multiple disciplines.
