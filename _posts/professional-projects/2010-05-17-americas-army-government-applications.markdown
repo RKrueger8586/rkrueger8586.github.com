@@ -5,6 +5,8 @@ category: projects
 tags: professional
 blurb: "Applications that help our fighting men and women save lives."
 images:
+- src: /thumbnails/ags1.jpg
+  caption: "Players face off against whimsical bosses such as the VendBot, a gigantic vending mahcine with a railgun and spider legs.<a href='http://www.army.mil/article/56674/Soldiers_flip_over_realistic_training_vehicle/' target='_blank'>Link to news article.</a>"
 ---
 
 ## Game
