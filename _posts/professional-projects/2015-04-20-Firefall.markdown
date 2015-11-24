@@ -28,7 +28,7 @@ images:
   caption: "Devil's Tusk has a wide variety of spaces for players to use in their fight against the Chosen"
 - src: /thumbnails/FFJericho1.png
   label: Holdout: Jericho
-  caption: "Holdout: Jericho is a game mode for five players, where they square off against increasingly difficult waves of enemies, with better and better rewards. <a href='https://www.youtube.com/watch?v=t-fpzjyVYWM' target='_blank'>Watch the video from our PTS. </a>"
+  caption: "Holdout: Jericho is a game mode for five players, where they square off against increasingly difficult waves of enemies, with better and better rewards. <a href='https://www.youtube.com/watch?v=t-fpzjyVYWM' target='_blank'>Watch the video from our PTS.</a>"
 - src: /thumbnails/FFJericho2.png
   label: Holdout: Jericho
   caption: "In order to secure the rewards, players must survive a round and get onto the dropsip. If players die in combat, they only get half of the rewards."
