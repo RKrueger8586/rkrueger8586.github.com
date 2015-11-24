@@ -6,13 +6,13 @@ tags: professional
 blurb: "A unique MMO/FPS hybrid set in a post-apocalyptic paradise"
 images:
 - src: /thumbnails/FFATeam1.png
-  label: Operation: The ARES Team
+  label: The ARES Team
   caption: "During The Ares Team, players are captured by rebels and sent to a brainwashing facility. <a href='https://www.youtube.com/watch?v=R1e1IwwKNAY' target='_blank'>Watch the video. </a> Skip to 32:25 for footage of the level."
 - src: /thumbnails/FFATeam2.png
-  label: Operation: The ARES Team
+  label: The ARES Team
   caption: "Once they are captured, players must find a way to escape their cells, and find a way to disrupt the Warden's evil plans. However, they are ferr to choose what they want to do first: Get their weapons, Get their battleframes, or disrupt the EMP field that renders their jump jets useless. Intrpid players can even ignore all of these tasks and go straight for the wardens, armed with little more than some improvised weapons and harsh language."
 - src: /thumbnails/FFATeam3.jpg
-  label: Operation: The ARES Team
+  label: The ARES Team
   caption: "We set up the spaces to be reminicent of a present day prison, most of the non-combat spaces were pulled in the give a feeling of claustrophobia. The interiors are dimly lit and gloomy, which contrasts with the outside areas, like the workyard and the main courtyard."
 - src: /thumbnails/FFDoD1.png
   label: Defense of Dredge
@@ -21,25 +21,25 @@ images:
   label: Defense of Dredge
   caption: "Improvised, temporary cover allows the players to retake the city from enemy hands."
 - src: /thumbnails/FFDT1.png
-  label: Open World: Devil's Tusk Warfront
+  label: Devil's Tusk Warfront
   caption: "As part of our overhaul to the in game spaces, I modified many of the open world areas in Devil's Tusk to work better with our current combat."
 - src: /thumbnails/FFDT2.jpg
   label: Devil's Tusk Warfront
   caption: "Devil's Tusk has a wide variety of spaces for players to use in their fight against the Chosen"
 - src: /thumbnails/FFJericho1.png
-  label: Holdout: Jericho
+  label: Holdout Jericho
   caption: "Holdout: Jericho is a game mode for five players, where they square off against increasingly difficult waves of enemies, with better and better rewards. <a href='https://www.youtube.com/watch?v=t-fpzjyVYWM' target='_blank'>Watch the video from our PTS.</a>"
 - src: /thumbnails/FFJericho2.png
-  label: Holdout: Jericho
+  label: Holdout Jericho
   caption: "In order to secure the rewards, players must survive a round and get onto the dropsip. If players die in combat, they only get half of the rewards."
 - src: /thumbnails/FFJericho3.png
-  label: Holdout: Jericho
+  label: Holdout Jericho
   caption: "Players must coordinate with their team in order to hold all of the entrances of the base and back each other up when they are forced to retreat to the next line of defenses."
 - src: /thumbnails/FFSertao1.png
-  label: Open World: Sertao
+  label: Sertao
   caption: "As part of out upcoming v1.6 Update, I worked with the world building team to refactor half of the areas in the Sertao area with new cover and gameplay spaces."
 - src: /thumbnails/FFSertao2.png
-  label: Open World: Sertao
+  label: Sertao
   caption: "Sertao is very different from coral forest and the design challenges it presented were refreshing and fun to work on."
 ---
 
