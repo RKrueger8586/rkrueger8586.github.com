@@ -72,7 +72,3 @@ Additionally, as a member of the combat team at Red 5, I took the lead on gettin
 - Create and document level blockouts for use by the scripting and world building teams
 - Iterate and gather feedback on level layouts
 - Place cover and iterate on open world combat spaces
-
-## Additional Videos
-- <a href='https://www.youtube.com/watch?v=OWiN5TFwvz4' target='_blank'>Agrievan - PTS Video. </a>"
-- 
