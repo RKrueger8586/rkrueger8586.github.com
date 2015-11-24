@@ -40,8 +40,8 @@ images:
   caption: "As part of out upcoming v1.6 Update, I worked with the world building team to refactor half of the areas in the Sertao area with new cover and gameplay spaces."
 - src: /thumbnails/FFSertao2.png
   label: Open World: Sertao
-  caption: "Sertao is very different from coral forest and the design challenges it presented were refreshing and fun to work on."
---- -->
+  caption: "Sertao is very different from coral forest and the design challenges it presented were refreshing and fun to work on." -->
+---
 
 ## Game Name
 - Firefall
