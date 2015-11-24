@@ -1,0 +1,78 @@
+---
+layout: carousel
+title: Firefall
+category: projects
+tags: professional
+blurb: "A unique MMO/FPS hybrid set in a post-apocalyptic paradise"
+images:
+- src: /thumbnails/FFATeam1.png
+  label: Operation: The ARES Team
+  caption: "During The Ares Team, players are captured by rebels and sent to a brainwashing facility. <a href='https://www.youtube.com/watch?v=R1e1IwwKNAY' target='_blank'>Watch the video. </a> Skip to 32:25 for footage of the level."
+- src: /thumbnails/FFATeam2.png
+  label: Operation: The ARES Team
+  caption: "Once they are captured, players must find a way to escape their cells, and find a way to disrupt the Warden's evil plans. However, they are ferr to choose what they want to do first: Get their weapons, Get their battleframes, or disrupt the EMP field that renders their jump jets useless. Intrpid players can even ignore all of these tasks and go straight for the wardens, armed with little more than some improvised weapons and harsh language."
+- src: /thumbnails/FFATeam3.jpg
+  label: Operation: The ARES Team
+  caption: "We set up the spaces to be reminicent of a present day prison, most of the non-combat spaces were pulled in the give a feeling of claustrophobia. The interiors are dimly lit and gloomy, which contrasts with the outside areas, like the workyard and the main courtyard."
+- src: /thumbnails/FFDoD1.png
+  label: Defense of Dredge
+  caption: "The Defense of Dredge is a 10-man raid encounter where the players must defend the accord stronghold of Dredge against an assault led by a contingent of the Chosen's most fearsome war machines. <a href='https://www.youtube.com/watch?v=Guz_vBQQLzs' target='_blank'>Watch a video from an early PTS build.</a> Note that balance changes have occurred that have substantially raised the difficulty of this encounter."
+- src: /thumbnails/FFDoD2.png
+  label: Defense of Dredge
+  caption: "Improvised, temporary cover allows the players to retake the city from enemy hands."
+- src: /thumbnails/FFDT1.png
+  label: Open World: Devil's Tusk Warfront
+  caption: "As part of our overhaul to the in game spaces, I modified many of the open world areas in Devil's Tusk to work better with our current combat."
+- src: /thumbnails/FFDT2.jpg
+  label: Devil's Tusk Warfront
+  caption: "Devil's Tusk has a wide variety of spaces for players to use in their fight against the Chosen"
+- src: /thumbnails/FFJericho1.png
+  label: Holdout: Jericho
+  caption: "Holdout: Jericho is a game mode for five players, where they square off against increasingly difficult waves of enemies, with better and better rewards. <a href='https://www.youtube.com/watch?v=t-fpzjyVYWM' target='_blank'>Watch the video from our PTS. </a>"
+- src: /thumbnails/FFJericho2.png
+  label: Holdout: Jericho
+  caption: "In order to secure the rewards, players must survive a round and get onto the dropsip. If players die in combat, they only get half of the rewards."
+- src: /thumbnails/FFJericho3.png
+  label: Holdout: Jericho
+  caption: "Players must coordinate with their team in order to hold all of the entrances of the base and back each other up when they are forced to retreat to the next line of defenses."
+- src: /thumbnails/FFSertao1.png
+  label: Open World: Sertao
+  caption: "As part of out upcoming v1.6 Update, I worked with the world building team to refactor half of the areas in the Sertao area with new cover and gameplay spaces."
+- src: /thumbnails/FFSertao2.png
+  label: Open World: Sertao
+  caption: "Sertao is very different from coral forest and the design challenges it presented were refreshing and fun to work on."
+---
+
+## Game Name
+- Firefall
+
+## Studio
+- Red 5 Studios
+
+## Release Date
+- July 29 2014
+
+## Game Engine
+- Proprietary
+- Google SketchUp
+
+## Description
+Firefall is an MMOFPS hybrid developed by Red 5 Studios in Irvine, CA. I joined the team as a Senior Level Designer in April of 2015. I was one of two level designers at the studio.  My primary responsibilities were to work with the world building and scripting team to block out and create whiteboxes to showcase the updated combat mechanics, and create additional content for the players to go through during their leveling experience. 
+
+We used the in-game tools and Google SketchUp in order to create and iterate on blockouts. Once the blockout was completed, we worked with scripting and world building to iterate and act on internal playtest feedback, altering the space as needed in order to work with scripts and needed artwork. 
+
+Level designers acted as a liason between the scripting and world building teams, and would ususally organize people on the asigned teams to mitigate workflow blockages and ensure that evenryone was focusing their work in a productive direction and that the level blockout was completed with plenty of time to iterate and allow the appropriate level of polish.
+
+Additionally, as a member of the combat team at Red 5, I took the lead on getting our third raid encounter fleshed out a ready for development.
+
+## Development Time
+- I worked on Firefall for approximately 7 months. In that time, I completed 4 missions, two raid encounters, one operation, one holdout mission, and several dozen open world areas. I also worked on refactoring several existing missions to work with the current state of our game.
+
+## Tasks
+- Create and document level blockouts for use by the scripting and world building teams
+- Iterate and gather feedback on level layouts
+- Place cover and iterate on open world combat spaces
+
+## Additional Videos
+- <a href='https://www.youtube.com/watch?v=OWiN5TFwvz4' target='_blank'>Agrievan - PTS Video. </a>"
+- 
