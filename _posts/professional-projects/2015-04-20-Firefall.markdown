@@ -64,7 +64,7 @@ Level designers acted as a liason between the scripting and world building teams
 Additionally, as a member of the combat team at Red 5, I took the lead on getting our third raid encounter fleshed out a ready for development.
 
 ## Development Time
-- I worked on Firefall for approximately 7 months. In that time, I completed 4 missions, two raid encounters, one operation, one holdout mission, and several dozen open world areas. I also worked on refactoring several existing missions to work with the current state of our game.
+- I worked on Firefall for approximately 7 months. In that time, I completed 5 mission blockouts, two raid encounters, one instanced operation, one holdout mission, and several dozen open world areas. I also worked on refactoring several existing missions to work with the current state of our game.
 
 ## Tasks
 - Create and document level blockouts for use by the scripting and world building teams
