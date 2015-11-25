@@ -55,13 +55,13 @@ images:
 - Google SketchUp
 
 ## Description
-Firefall is an MMOFPS hybrid developed by Red 5 Studios in Irvine, CA. I joined the team as a Senior Level Designer in April of 2015. I was one of two level designers at the studio.  My primary responsibilities were to work with the world building and scripting team to block out and create whiteboxes to showcase the updated combat mechanics, and create additional content for the players to go through during their leveling experience. 
+Firefall is an MMO/FPS hybrid developed by Red 5 Studios in Irvine, CA. I joined the team as a Senior Level Designer in April of 2015. As one of the two level designers at the studio, my primary responsibilities were to work with the world building and scripting team in order block out gameplay spaces and create whiteboxes to showcase our updated combat mechanics. Our overall goal was to create a wide variety of content for the players to go through during their initial leveling experience. 
 
 We used the in-game tools and Google SketchUp in order to create and iterate on blockouts. Once the blockout was completed, we worked with scripting and world building to iterate and act on internal playtest feedback, altering the space as needed in order to work with scripts and needed artwork. 
 
-Level designers acted as a liason between the scripting and world building teams, and would ususally organize people on the asigned teams to mitigate workflow blockages and ensure that evenryone was focusing their work in a productive direction and that the level blockout was completed with plenty of time to iterate and allow the appropriate level of polish.
+Level designers acted as a liason between the scripting and world building teams, and would regularly organize people on the asigned teams to mitigate workflow blockages and ensure that evenryone was focusing their work in a productive direction. Additionally, the level design team was responsible for ensuring that the level blockout was completed with plenty of time to iterate and allow the appropriate level of polish.
 
-Additionally, as a member of the combat team at Red 5, I took the lead on getting our third raid encounter fleshed out a ready for development.
+Additionally, as a member of the combat team at Red 5, I took the lead on getting our third raid encounter fleshed out and ready for development.
 
 ## Development Time
 - I worked on Firefall for approximately 7 months. In that time, I completed 5 mission blockouts, two raid encounters, one instanced operation, one holdout mission, and several dozen open world areas. I also worked on refactoring several existing missions to work with the current state of our game.
