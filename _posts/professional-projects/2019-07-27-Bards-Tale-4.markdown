@@ -87,7 +87,7 @@ images:
 - Coordinate day-to-day logistics of the design team’s interactions with other disciplines.
 - Long-term logistics: Project timelines, task assignment and task creation.
 - Defined content initiatives across multiple sprints and levels.
-
 - Wrote most of the digital strategy guide
 - Ensured the deployment of all in-game Kickstarter stretch goals and requirements
-- Create and attend meetings for the purpose of coordination between disciplines and ensure content creation doesn’t get bottlenecked
+- Create and attend meetings for the purpose of coordination between disciplines and ensure content creation doesn’t get bottlenecked.
+
