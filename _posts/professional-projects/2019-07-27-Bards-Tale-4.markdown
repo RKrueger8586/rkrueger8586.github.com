@@ -1,0 +1,92 @@
+---
+layout: carousel
+title: Bard's Tale 4: Barrows deep
+category: projects
+tags: professional
+blurb: "A return to one of gaming's oldest and most celebrated franchises."
+images:
+- src: /thumbnails/bt4_1.jpg
+  label: The ARES Team
+  caption: "During The Ares Team, players are captured by rebels and sent to a brainwashing facility. <a href='https://www.youtube.com/watch?v=R1e1IwwKNAY' target='_blank'>Watch the video. </a> Skip to 32:25 for footage of the level."
+- src: /thumbnails/BT4_2.jpg
+  label: The ARES Team
+  caption: "Once they are captured, players must find a way to escape their cells, and find a way to disrupt the Warden's evil plans. However, they are free to choose what they want to do first: Get their weapons, Get their battleframes, or disrupt the EMP field that renders their jump jets useless. Intrpid players can even ignore all of these tasks and go straight for the Warden, armed with little more than some improvised weapons and harsh language."
+- src: /thumbnails/BT4_3.jpg
+  label: The ARES Team
+  caption: "We set up the spaces to be reminicent of a present day prison, most of the non-combat spaces were pulled in to give a feeling of claustrophobia. The interiors are dimly lit and gloomy, which contrasts with the outside areas, like the workyard and the main courtyard."
+- src: /thumbnails/BT4_4.jpg
+  label: Defense of Dredge
+  caption: "The Defense of Dredge is a 10-man raid encounter where the players must defend the accord stronghold of Dredge against an assault led by a contingent of the Chosen's most fearsome war machines. <a href='https://www.youtube.com/watch?v=Guz_vBQQLzs' target='_blank'>Watch a video from an early PTS build.</a> Note that balance changes have occurred that have substantially raised the difficulty of this encounter."
+- src: /thumbnails/BT4_5.jpg
+  label: Defense of Dredge
+  caption: "Improvised, temporary cover allows the players to retake the city from enemy hands."
+- src: /thumbnails/BT4_6.jpg
+  label: Devil's Tusk Warfront
+  caption: "As part of our overhaul to the in game spaces, I modified many of the open world areas in Devil's Tusk to work better with our current combat. Open areas have been given cover, with additional areas for the players to jump to and use their jump jets to their advantage."
+- src: /thumbnails/BT4_7.jpg
+  label: Devil's Tusk Warfront
+  caption: "Devil's Tusk has a wide variety of spaces for players to use in their fight against the Chosen, such as lava fields, the jungle and a desolate beach facing a Chosen stronghold."
+- src: /thumbnails/Bt4_8.jpg
+  label: Holdout Jericho
+  caption: "Holdout: Jericho is a game mode for five players, where they square off against increasingly difficult waves of enemies, with better and better rewards. <a href='https://www.youtube.com/watch?v=t-fpzjyVYWM' target='_blank'>Watch the video from our PTS.</a>"
+- src: /thumbnails/BT4_9.jpg
+  label: Holdout Jericho
+  caption: "At the end of a round, a dropship appears in order to give the players a chance to evacuate. In order to secure all of the rewards, players must survive the entire round and make it to the dropship. If players die in combat, they only recieve half of the rewards."
+- src: /thumbnails/BT4_ow_1.jpg
+  label: Holdout Jericho
+  caption: "Players must coordinate with their team in order to hold all of the entrances of the base, as well as back each other up when they are forced to retreat to the next line of defenses."
+- src: /thumbnails/BT4_ow_2.jpg
+  label: Sertao
+  caption: "As part of our upcoming v1.6 Update, I worked with the world building team to refactor half of the areas in the Sertao area with new cover and gameplay spaces."
+- src: /thumbnails/Bt4_ow_3.jpg
+  label: Sertao
+  caption: "Sertao's landscape features are very different from Coral Forest. The design challenges it presented were refreshing and fun to work on."
+---
+
+
+## Studio
+- InXile Entertainment
+
+## Release Date
+- September 18, 2018 (original version)
+- August 27, 2019 (Director's Cut)
+
+## Game Engine
+- Unreal 4
+- Google SketchUp
+
+## Platforms
+- PC, Xbox One, Playstation 4, Mac, Linux.
+
+## Description
+- Bard's Tale 4 is a revival of the classic game series created by Brian Fargo. The game has been updated with 21st century graphics and new updated mechanics. The result is a unique divergence from traditional blobbers and old school RPGs. Bard's Tale is a massive adventure featuring 50+ hours of gameplay, muiltiple gameplay modes, and diverse dungones and puzzles.
+
+## Development Time
+- I joined the Bard's Tale 4 team in Spetember of 2016 near the end of pre-production. The initial release of the game was on September 18, 2018 and the final release of the game is scheduled on August 27th, 2019. I will be responsible for overseeing the final, multiplatform release and leading the team on patches and any additional development as need arises. 
+
+## Design Tasks
+- Review all Design layouts and assist other designers with initial layout implementation
+- Defined pipeline for greyboxes and 1st pass art
+- Ensured thorough documentation to accompany all gameplay spaces
+- Work with Art team to define overall look and feel for each gameplay space, including spaces that I didn’t necessarily create myself
+- Work on defining puzzle systems and complexity scaling
+- Minor scripting
+- Minor writing for personality, flavor and humor.
+- Major optimization planning, research and development, and solution proposal
+- Sublevel streaming and troubleshooting
+- Ensuring all level designers were experts in all of the game’s content and functionality (which meant I had to memorize the entire game myself.)
+- Some UX and system design
+- Bug fixing
+
+## Administrative and Logistical Tasks
+- Maintain a comprehensive vision of the game’s content and ensure that all content meets set standards.
+- Review all design tasks and provide thorough and constructive feedback on all gameplay spaces
+- Ensure the functionality of all level design features
+- Hold gameplay reviews and advise designers on problems they may be running into throughout the course of development
+- Allocate support resources for design needs such as back-end code or specific art requests for design assets
+- Coordinate day-to-day logistics of the design team’s interactions with other disciplines.
+- Long-term logistics: Project timelines, task assignment and task creation.
+- Defined content initiatives across multiple sprints and levels
+- Wrote most of the digital strategy guide
+- Ensured the deployment of all in-game Kickstarter stretch goals and requirements
+- Create and attend meetings for the purpose of coordination between disciplines and ensure content creation doesn’t get bottlenecked
