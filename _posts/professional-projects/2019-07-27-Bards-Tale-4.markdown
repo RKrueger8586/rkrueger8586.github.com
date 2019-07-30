@@ -29,15 +29,6 @@ images:
   - src: /thumbnails/BT4_9.jpg
   label: Embracing the Weird
   caption: "Need Caption Update"
-  - src: /thumbnails/BT4_ow_1.jpg
-  label: The Baedish Lowlands
-  caption: "Need Caption Update"
-  - src: /thumbnails/BT4_ow_2.jpg
-  label: The Forest of Inshriach
-  caption: "Need Caption Update"
-  - src: /thumbnails/Bt4_ow_3.jpg
-  label: The Isle of Stronsea
-  caption: "Need Caption Update"
 ---
 
 
