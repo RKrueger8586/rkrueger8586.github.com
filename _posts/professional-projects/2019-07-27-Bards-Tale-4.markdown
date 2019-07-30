@@ -6,7 +6,7 @@ tags: professional
 blurb: "A return to one of gaming's oldest and most celebrated franchises."
 images:
 - src: /thumbnails/bt4_1.jpg
-  label: Deep, Tactical Combat
+  label: Deep and Tactical Combat
   caption: "Need Caption Update"
   - src: /thumbnails/BT4_2.jpg
   label: Spawling Overworlds
