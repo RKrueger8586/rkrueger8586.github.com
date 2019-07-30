@@ -41,8 +41,8 @@ images:
 - Minor writing for personality, flavor and humor.
 - Major optimization planning, research and development, and solution proposal
 - Sublevel streaming and troubleshooting
-- Ensuring all level designers were experts in all of the game’s content and functionality (which meant I had to memorize the entire game myself.)
-- Some UX and system design
+- Ensuring all level designers were experts in all of the game’s content and functionality
+- Minor UX and system design
 - Bug fixing
 
 ## Administrative and Logistical Tasks
