@@ -17,18 +17,6 @@ images:
   - src: /thumbnails/BT4_5.jpg
   label: Stunning Vistas
   caption: "Need Caption Update"
-  - src: /thumbnails/BT4_6.jpg
-  label: Ancient Ruins
-  caption: "Need Caption Update"
-  - src: /thumbnails/BT4_7.jpg
-  label: Dangerous Enemies
-  caption: "Need Caption Update"
-  - src: /thumbnails/Bt4_8.jpg
-  label: Otherworldly Spaces
-  caption: "Need Caption Update"
-  - src: /thumbnails/BT4_9.jpg
-  label: Embracing the Weird
-  caption: "Need Caption Update"
 ---
 
 
