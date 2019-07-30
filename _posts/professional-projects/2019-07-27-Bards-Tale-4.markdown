@@ -11,9 +11,6 @@ images:
   - src: /thumbnails/BT4_2.jpg
   label: Spawling Overworlds
   caption: "Need Caption Update"
-  - src: /thumbnails/BT4_3.jpg
-  label: Strange and Mystical Locales
-  caption: "Need Caption Update"
   - src: /thumbnails/BT4_4.jpg
   label: Diverse and Cunning Dungeons
   caption: "Need Caption Update"
