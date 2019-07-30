@@ -6,8 +6,41 @@ tags: professional
 blurb: "A return to one of gaming's oldest and most celebrated franchises."
 images:
 - src: /thumbnails/bt4_1.jpg
-  label: The ARES Team
-  caption: "During The Ares Team, players are captured by rebels and sent to a brainwashing facility. <a href='https://www.youtube.com/watch?v=R1e1IwwKNAY' target='_blank'>Watch the video. </a> Skip to 32:25 for footage of the level."
+  label: Deep, Tactical Combat
+  caption: "Need Caption Update"
+  - src: /thumbnails/BT4_2.jpg
+  label: Spawling Overworlds
+  caption: "Need Caption Update"
+  - src: /thumbnails/BT4_3.jpg
+  label: Strange and Mystical Locales
+  caption: "Need Caption Update"
+  - src: /thumbnails/BT4_4.jpg
+  label: Diverse and Cunning Dungeons
+  caption: "Need Caption Update"
+  - src: /thumbnails/BT4_5.jpg
+  label: Stunning Vistas
+  caption: "Need Caption Update"
+  - src: /thumbnails/BT4_6.jpg
+  label: Ancient Ruins
+  caption: "Need Caption Update"
+  - src: /thumbnails/BT4_7.jpg
+  label: Dangerous Enemies
+  caption: "Need Caption Update"
+  - src: /thumbnails/Bt4_8.jpg
+  label: Otherworldly Spaces
+  caption: "Need Caption Update"
+  - src: /thumbnails/BT4_9.jpg
+  label: Embracing the Weird
+  caption: "Need Caption Update"
+  - src: /thumbnails/BT4_ow_1.jpg
+  label: The Baedish Lowlands
+  caption: "Need Caption Update"
+  - src: /thumbnails/BT4_ow_2.jpg
+  label: The Forest of Inshriach
+  caption: "Need Caption Update"
+  - src: /thumbnails/Bt4_ow_3.jpg
+  label: The Isle of Stronsea
+  caption: "Need Caption Update"
 ---
 
 
