@@ -5,15 +5,15 @@ category: projects
 tags: professional
 blurb: "A return to one of gaming's oldest and most celebrated franchises."
 images:
-- src: /thumbnails/bt4_1.jpg
+- src: /thumbnails/bt4_01.jpg
   label: Deep and Tactical Combat
   caption: "Need Caption Update"
-- src: /thumbnails/bt4_2.jpg
-  label: Deep and Tactical Combat
-  caption: "Need Caption Update"
-- src: /thumbnails/bt4_3.jpg
-  label: Deep and Tactical Combat
-  caption: "Need Caption Update"
+- src: /thumbnails/bt4_02.jpg
+  label: Image 02
+  caption: "TBD"
+- src: /thumbnails/bt4_03.jpg
+  label: IMage 03
+  caption: "TBD Also"
 ---
 
 
