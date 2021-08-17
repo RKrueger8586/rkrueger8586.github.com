@@ -12,10 +12,9 @@ images:
   label: Image 02
   caption: "TBD"
 - src: /thumbnails/bt4_03.jpg
-  label: IMage 03
+  label: Image 03
   caption: "TBD Also"
 ---
-
 
 ## Studio
 - InXile Entertainment
