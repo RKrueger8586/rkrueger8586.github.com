@@ -8,7 +8,7 @@ images:
 - src: /thumbnails/bt4_1.jpg
   label: Deep and Tactical Combat
   caption: "Need Caption Update"
-- src: /thumbnails/BT4_2.jpg
+- src: /thumbnails/bt4_2.jpg
   label: Deep and Tactical Combat
   caption: "Need Caption Update"
 ---
