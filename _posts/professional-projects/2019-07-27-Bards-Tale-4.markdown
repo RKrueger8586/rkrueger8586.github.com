@@ -1,6 +1,6 @@
 ---
 layout: carousel
-title: Bard's Tale 4 Director's Cut
+title: Bard's Tale 4: Director's Cut
 category: projects
 tags: professional
 blurb: "A return to one of gaming's oldest and most celebrated franchises."
@@ -50,6 +50,9 @@ images:
 - September 18, 2018 (original version)
 - August 27, 2019 (Director's Cut)
 
+## Reviews
+- Metacritic: 84%
+
 ## Game Engine
 - Unreal 4
 - Google SketchUp
@@ -61,16 +64,18 @@ images:
 - Bard's Tale 4 is a revival of the classic game series created by Brian Fargo. The game has been updated with 21st century graphics and new updated mechanics. The result is a unique divergence from traditional blobbers and old school RPGs. Bard's Tale is a massive adventure featuring 50+ hours of gameplay, muiltiple gameplay modes, and diverse dungones and puzzles.
 
 ## Development Time
-- I joined the Bard's Tale 4 team in Spetember of 2016 near the end of pre-production. The initial release of the game was on September 18, 2018 and the final release of the game is scheduled on August 27th, 2019. I will be responsible for overseeing the final, multiplatform release and leading the team on patches and any additional development as need arises. 
+- I joined the Bard's Tale 4 team in Spetember of 2016 near the end of pre-production. The initial release of the game was on September 18, 2018 and the final release of the game is scheduled on August 27th, 2019. I was responsible for overseeing the final, multiplatform release and leading the team on support patche releases. 
 
 ## Design Tasks
+- Designed all 3 overworld levels, as well as the tutorial dungeon: The Cellars of Kylearan's Tower and Skara Brae Underground
+- Designed many of the game's smaller areas such as inns and small encounter areas
 - Review all Design layouts and assist other designers with initial layout implementation
 - Defined pipeline for greyboxes and 1st pass art
 - Ensured thorough documentation to accompany all gameplay spaces
-- Work with Art team to define overall look and feel for each gameplay space, including spaces that I didn’t necessarily create myself
+- Worked with Art team to define overall look and feel for each gameplay space
 - Work on defining puzzle systems and complexity scaling
 - Minor scripting
-- Minor writing for personality, flavor and humor.
+- Writing for personality, flavor and humor.
 - Major optimization planning, research and development, and solution proposal
 - Sublevel streaming and troubleshooting
 - Ensuring all level designers were experts in all of the game’s content and functionality
