@@ -10,11 +10,14 @@ images:
   caption: "An example of directed research and experimentation."
 ---
 
+## Studio
+- Army Game Studio 
+
 ## Game Engine
 - Unreal 4
 
 ## Description
-Over the past year, I have been spearheading an effort to assess and develop new capabilites in a next generation engine. I was responsible for the creation of a protoype that was intended to prove out several critial features and capabilities that would be required for future development. I created tasking and  helped ensure that the project reached completion within the allotted time and budget. Additionally, I was responsible for gathering information from various other disciplines and formulating a plan and schedule around their input. Ultimately, the project had several general goals:
+In 2014, I  spearheaded an effort to assess and develop new capabilites in a next generation engine. I was responsible for the creation of a protoype that was intended to prove out several critial features and capabilities that would be required for future development. I created tasking and  helped ensure that the project reached completion within the allotted time and budget. Additionally, I was responsible for gathering information from various other disciplines and formulating a plan and schedule around their input. Ultimately, the project had several general goals:
 
 - Create a pipeline that can be used to bring content from Unreal 3 to Unreal 4.
 - Determine how much labor it would take to update a level from the previous engine

@@ -61,7 +61,7 @@ images:
 - PC, Xbox One, Playstation 4, Mac, Linux.
 
 ## Description
-- Bard's Tale 4 is a revival of the classic game series created by Brian Fargo. The game has been updated with 21st century graphics and new updated mechanics. The result is a unique divergence from traditional blobbers and old school RPGs. Bard's Tale is a massive adventure featuring 50+ hours of gameplay, muiltiple gameplay modes, and diverse dungones and puzzles.
+- Bard's Tale 4 is a revival of the classic game series created by Brian Fargo. The game has been updated with 21st century graphics and new updated mechanics. The result is a unique divergence from traditional blobbers and old school RPGs. Bard's Tale is a massive adventure featuring 50+ hours of gameplay, muiltiple gameplay modes, and diverse dungons and puzzles.
 
 ## Development Time
 - I joined the Bard's Tale 4 team in Spetember of 2016 near the end of pre-production. The initial release of the game was on September 18, 2018 and the final release of the game is scheduled on August 27th, 2019. I was responsible for overseeing the final, multiplatform release and leading the team on support patche releases. 
