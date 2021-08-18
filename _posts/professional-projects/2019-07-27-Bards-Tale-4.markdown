@@ -15,31 +15,31 @@ images:
   label: Image 03
   caption: "TBD Also"
 - src: /thumbnails/bt4_04.jpg
-  label: Image 03
+  label: Image 04
   caption: "TBD Also"
 - src: /thumbnails/bt4_05.jpg
-  label: Image 03
+  label: Image 05
   caption: "TBD Also"
 - src: /thumbnails/bt4_06.jpg
-  label: Image 03
+  label: Image 06
   caption: "TBD Also"
 - src: /thumbnails/bt4_07.jpg
-  label: Image 03
+  label: Image 07
   caption: "TBD Also"
 - src: /thumbnails/bt4_08.jpg
-  label: Image 03
+  label: Image 08
   caption: "TBD Also"
 - src: /thumbnails/bt4_09.jpg
-  label: Image 03
+  label: Image 09
   caption: "TBD Also"
 - src: /thumbnails/bt4_ow_01.jpg
-  label: Image 03
+  label: OW Image 01
   caption: "TBD Also"
 - src: /thumbnails/bt4_ow_02.jpg
-  label: Image 03
+  label: OW Image 02
   caption: "TBD Also"
 - src: /thumbnails/bt4_ow_03.jpg
-  label: Image 03
+  label: OW Image 03
   caption: "TBD Also"
 ---
 
