@@ -51,7 +51,7 @@ images:
 - August 27, 2019 (Director's Cut)
 
 ## Reviews
-- Metacritic: 84%
+- Metacritic 84%
 
 ## Game Engine
 - Unreal 4
@@ -67,7 +67,7 @@ images:
 - I joined the Bard's Tale 4 team in Spetember of 2016 near the end of pre-production. The initial release of the game was on September 18, 2018 and the final release of the game is scheduled on August 27th, 2019. I was responsible for overseeing the final, multiplatform release and leading the team on support patche releases. 
 
 ## Design Tasks
-- Designed all 3 overworld levels, as well as the tutorial dungeon "The Cellars of Kylearan's Tower" and Skara Brae Underground
+- Designed all 3 overworld levels, as well as the tutorial dungeon (The Cellars of Kylearan's Tower) and Skara Brae Underground
 - Designed many of the game's smaller areas, such as inns and small encounter areas
 - Review all Design layouts and assist other designers with initial layout implementation
 - Defined pipeline for greyboxes and 1st pass art
