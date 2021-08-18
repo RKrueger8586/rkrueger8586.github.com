@@ -51,7 +51,7 @@ images:
 - August 27, 2019 (Director's Cut)
 
 ## Reviews
-- Metacritic rating as of 2021 is 84
+- Metacritic: 84%
 
 ## Game Engine
 - Unreal 4
