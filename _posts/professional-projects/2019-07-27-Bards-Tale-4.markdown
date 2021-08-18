@@ -1,6 +1,6 @@
 ---
 layout: carousel
-title: Bard's Tale 4: Director's Cut
+title: Bard's Tale 4 Director's Cut
 category: projects
 tags: professional
 blurb: "A return to one of gaming's oldest and most celebrated franchises."
