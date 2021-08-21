@@ -5,42 +5,46 @@ category: projects
 tags: professional
 blurb: "A return to one of gaming's oldest and most celebrated franchises."
 images:
+- src: /thumbnails/bt4_09.jpg
+  label: Fantastic Dungeons and Clever Puzzles
+  caption: "Bard's Tale 4 was created with a balance between exploring strange and fantastic dungeons, battling fearsome foes and solving devilishly clever puzzles. We created a wide variety of content and challenges for the player to experience."
+- src: /thumbnails/bt4_04.jpg
+  label: The Cellars of Kylearan's Tower
+  caption: "A tutorial dungeon created to teach players the basics of many of Bard's Tale 4's systems. I designed and laid out a dungeon that touched on most of our major systems including crafting, puzzle systems, traps and exploration opportunities. After completing this dungeon, players should be ready to set out into the wider world of Caith"
+- src: /thumbnails/bt4_ow_02.jpg
+  label: The Forest of Inshriach
+  caption: "I did the inital design and layout for all of our overworld areas. The Forest of Inshriach is one of the largest spaces in the game and features over a dozen progression puzzles, a fast travel system, connections to several dungeons, and dozens of combat encounters. Players can seek out and clear the forest of corruption to restore it to it's natural state."
+- src: /thumbnails/bt4_02.jpg
+  label: The Village fo Bren 
+  caption: "Bren is a peaceful forest hamlet that acts as a hub for the player as they progress through the Forest of Inshriach."
+- src: /thumbnails/bt4_ow_01.jpg
+  label: Baedish Lowlands
+  caption: "I designed The Baedish lowlands as an introduction to the features of our overworld areas. It is by far the smallest overworld zone, but still features several dozen combats, numerous puzzles including the tutorial for a puzzle system we called Faerie Golf. There are several connections to optional dungeons that we included as part of our kickstarter goals."
+- src: /thumbnails/bt4_06.jpg
+  label: Landmarks and Vistas
+  caption: "We built all of our overworld zones with vistas and landmarks in mind, both to sell the flavor and personality of our world and to assist with player navigation. We set a goal that every prominent landmark would be a place of significance that the player could actually go to and explore."
+- src: /thumbnails/bt4_07.jpg
+  label: Advanced Combat Tutorial
+  caption: "The Baedish Lowlands was also created to act as an advanced combat tutorial, introducing players to the concepts of synergistic ability usage, level differentials, and managing a larger party"
+- src: /thumbnails/bt4_ow_03.jpg
+  label: The Isle of Stronsea
+  caption: "The Isle of Stronsea is the last overworld zone before players reach the endgame. It is comparable in size and content to The Forest of Inshriach. players must work their way from the docks on the western end of the island to the gigantic castle looming above the island to the east. This area features over 30 combat encounters, more than a dozen puzzles and links to six dungeons. "
+- src: /thumbnails/bt4_05.jpg
+  label: A Harsh Environment Choked by a Poison Mist
+  caption: "The Isle of Stronsea was intended to feel very different than other areas of the game. We wanted to emphasize the harsh and rocky environments that can be found in the northern areas of Sotland to round out our visual themes."
 - src: /thumbnails/bt4_01.jpg
   label: Deep and Tactical Combat
-  caption: "Need Caption Update"
-- src: /thumbnails/bt4_02.jpg
-  label: Image 02
-  caption: "TBD"
-- src: /thumbnails/bt4_03.jpg
-  label: Image 03
-  caption: "TBD Also"
-- src: /thumbnails/bt4_04.jpg
-  label: Image 04
-  caption: "TBD Also"
-- src: /thumbnails/bt4_05.jpg
-  label: Image 05
-  caption: "TBD Also"
-- src: /thumbnails/bt4_06.jpg
-  label: Image 06
-  caption: "TBD Also"
-- src: /thumbnails/bt4_07.jpg
-  label: Image 07
-  caption: "TBD Also"
+  caption: "The Isle of Stronsea presents the players with some of their greatest and most complex challenges. If not destroyed simultaneously many undead minions will rise back up even after defeat. Players make wise use of all of their skills to overcome these encounters."
 - src: /thumbnails/bt4_08.jpg
-  label: Image 08
-  caption: "TBD Also"
-- src: /thumbnails/bt4_09.jpg
-  label: Image 09
-  caption: "TBD Also"
-- src: /thumbnails/bt4_ow_01.jpg
-  label: OW Image 01
-  caption: "TBD Also"
-- src: /thumbnails/bt4_ow_02.jpg
-  label: OW Image 02
-  caption: "TBD Also"
-- src: /thumbnails/bt4_ow_03.jpg
-  label: OW Image 03
-  caption: "TBD Also"
+  label: The Temple of Vildsvin
+  caption: "A minor area in the game that I designed. It features some light exploration and a single combat, but we used this area as an opportunity to show off some of the more alien aesthetics of the Charn."
+- src: /thumbnails/bt4_03.jpg
+  label: Larger than Life Landmarks
+  caption: "The Isle of Stronsea gave the team opportunities to create some truly larger than life structures and landmarks. We put a lot of work into making these features recognizable and memorable. The statue featured here was also shown in Mages Tale, the prequel to Bard's Tale 4. We wanted to use this statue to draw a subtle narrative line to the presence of the antagonists of both games, The Charn"
+
+
+
+
 ---
 
 ## Studio
@@ -51,7 +55,7 @@ images:
 - August 27, 2019 (Director's Cut)
 
 ## Reviews
-- Metacritic: 84%
+- Metacritic: 84% (DIrector's Cut)
 
 ## Game Engine
 - Unreal 4
@@ -64,7 +68,7 @@ images:
 - Bard's Tale 4 is a revival of the classic game series created by Brian Fargo. The game has been updated with 21st century graphics and new updated mechanics. The result is a unique divergence from traditional blobbers and old school RPGs. Bard's Tale is a massive adventure featuring 50+ hours of gameplay, muiltiple gameplay modes, and diverse dungons and puzzles.
 
 ## Development Time
-- I joined the Bard's Tale 4 team in Spetember of 2016 near the end of pre-production. The initial release of the game was on September 18, 2018 and the final release of the game is scheduled on August 27th, 2019. I was responsible for overseeing the final, multiplatform release and leading the team on support patche releases. 
+- I joined the Bard's Tale 4 team in Spetember of 2016 near the end of pre-production. The initial release of the game was on September 18, 2018 and the final release of the game is scheduled on August 27th, 2019. I was responsible for overseeing the final, multiplatform release and leading the team on support patch releases. 
 
 ## Design Tasks
 - Designed all 3 overworld levels, as well as the tutorial dungeon (The Cellars of Kylearan's Tower) and Skara Brae Underground
